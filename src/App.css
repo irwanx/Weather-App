@@ -1,0 +1,11 @@
+.background-image {
+  background-image: url("images/background.jpg"); /* Replace with your image path */
+  background-size: cover; /* Adjust as needed (cover, contain, etc.) */
+  background-position: center; /* Adjust as needed (center, top, etc.) */
+  min-height: 60vh; /* Set minimum height for the background */
+}
+.background-city {
+  background-image: url("images/city.jpg"); /* Replace with your image path */
+  background-size: cover; /* Adjust as needed (cover, contain, etc.) */
+  background-position: center; /* Adjust as needed (center, top, etc.) */
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/irwanx/Weather-App/static/css/main.3a7ca2cf.css",
+    "main.js": "/irwanx/Weather-App/static/js/main.35f40e3a.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/irwanx/Weather-App/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/city.jpg": "/irwanx/Weather-App/static/media/city.bec413c4a34b94fe023a.jpg",
+    "static/media/background.jpg": "/irwanx/Weather-App/static/media/background.557a9309bec30e5e09e5.jpg",
+    "index.html": "/irwanx/Weather-App/index.html",
+    "main.3a7ca2cf.css.map": "/irwanx/Weather-App/static/css/main.3a7ca2cf.css.map",
+    "main.35f40e3a.js.map": "/irwanx/Weather-App/static/js/main.35f40e3a.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/irwanx/Weather-App/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7ca2cf.css",
+    "static/js/main.35f40e3a.js"
+  ]
+}
